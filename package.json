@@ -22,5 +22,10 @@
   "homepage": "https://github.com/Int4re/frontend-project-lvl1#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-plugin-import": "^2.21.2"
   }
 }
