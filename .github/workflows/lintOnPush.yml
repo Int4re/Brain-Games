@@ -18,7 +18,7 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
     
-    - name: npm install
+    - name: npm install, build
       run: make install
     - name: Run Linter
       run: make lint
