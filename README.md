@@ -15,10 +15,19 @@
 <a href="https://asciinema.org/a/338397" target="_blank"><img src="https://asciinema.org/a/338397.svg" /></a>
 
 ### 2. Калькулятор
-Игроку необходимо правильно вычислить выражение.
+Перед игроком предстает математическое выражение, которое необходимо вычислить и ввести результат.
 
 #### Запуск игры
 `brain-calc`
 
 #### Пример игры
 <a href="https://asciinema.org/a/338396" target="_blank"><img src="https://asciinema.org/a/338396.svg" /></a>
+
+### 3. Наибольший общий делитель (НОД)
+Перед игроком предстает два числа, ему необходимо вычислить и ввести НОД этих чисел.
+
+### Запуск игры
+`brain-gcd`
+
+### Пример игры
+<a href="https://asciinema.org/a/338411" target="_blank"><img src="https://asciinema.org/a/338411.svg" /></a>
