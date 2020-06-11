@@ -12,7 +12,7 @@
 `brain-even`
 
 ### Пример игры
-https://asciinema.org/a/338389
+<a href="https://asciinema.org/a/338397" target="_blank"><img src="https://asciinema.org/a/338397.svg" /></a>
 
 ### 2. Калькулятор
 Игроку необходимо правильно вычислить выражение.
@@ -21,4 +21,4 @@ https://asciinema.org/a/338389
 `brain-calc`
 
 #### Пример игры
-https://asciinema.org/a/338395
+<a href="https://asciinema.org/a/338396" target="_blank"><img src="https://asciinema.org/a/338396.svg" /></a>
