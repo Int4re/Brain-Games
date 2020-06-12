@@ -1,10 +1,8 @@
 # Name of workflow
-name: Node CI
+name: lintOnPush
 
 # Trigger the workflow on push or pull request
-on:
-  - push
-  - pull_request
+on: push
 
 jobs:
   build:
@@ -33,10 +31,6 @@ jobs:
         # Install and build project
         run: |
           make install
-        # Add environment variables
-        env:
-          CI: true
       - name: Run linter
         # Run Linter
-        run: |
-          make lint
+        run: make lint
