@@ -40,3 +40,12 @@
 
 ### Пример игры
 <a href="https://asciinema.org/a/338659" target="_blank"><img src="https://asciinema.org/a/338659.svg" /></a>
+
+### 5. Простое ли число?
+Игроку необходимо определить, является ли число простым. Если число простое ответить **yes**, иначе **no**.
+
+### Запуск игры
+`brain-prime`
+
+### Пример игры
+<a href="https://asciinema.org/a/338698" target="_blank"><img src="https://asciinema.org/a/338698.svg" /></a>
