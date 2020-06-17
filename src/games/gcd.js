@@ -1,4 +1,5 @@
-import { generateNum, playGame } from '../index.js';
+import generateNum from '../index.js';
+import playGame from '../utils.js';
 
 const gcd = (a, b) => {
   if (b === 0) {

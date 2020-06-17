@@ -12,7 +12,7 @@
 `brain-even`
 
 ### Пример игры
-<a href="https://asciinema.org/a/338397" target="_blank"><img src="https://asciinema.org/a/338397.svg" /></a>
+<a href="https://asciinema.org/a/340501" target="_blank"><img src="https://asciinema.org/a/340501.svg" /></a>
 
 ### 2. Калькулятор
 Перед игроком предстает математическое выражение, которое необходимо вычислить.
@@ -21,7 +21,7 @@
 `brain-calc`
 
 #### Пример игры
-<a href="https://asciinema.org/a/338396" target="_blank"><img src="https://asciinema.org/a/338396.svg" /></a>
+<a href="https://asciinema.org/a/340502" target="_blank"><img src="https://asciinema.org/a/340502.svg" /></a>
 
 ### 3. Наибольший общий делитель (НОД)
 Перед игроком предстает два числа, ему необходимо вычислить НОД этих чисел.
@@ -30,7 +30,7 @@
 `brain-gcd`
 
 ### Пример игры
-<a href="https://asciinema.org/a/338411" target="_blank"><img src="https://asciinema.org/a/338411.svg" /></a>
+<a href="https://asciinema.org/a/340505" target="_blank"><img src="https://asciinema.org/a/340505.svg" /></a>
 
 ### 4. Арифметическая прогрессия
 Перед игроком предстает ряд чисел, образующих арифметическую прогрессию, одно из которых скрыто. Игрок должен определить это число.
@@ -39,7 +39,7 @@
 `brain-progression`
 
 ### Пример игры
-<a href="https://asciinema.org/a/338659" target="_blank"><img src="https://asciinema.org/a/338659.svg" /></a>
+<a href="https://asciinema.org/a/340507" target="_blank"><img src="https://asciinema.org/a/340507.svg" /></a>
 
 ### 5. Простое ли число?
 Игроку необходимо определить, является ли число простым. Если число простое ответить **yes**, иначе **no**.
@@ -48,4 +48,4 @@
 `brain-prime`
 
 ### Пример игры
-<a href="https://asciinema.org/a/338698" target="_blank"><img src="https://asciinema.org/a/338698.svg" /></a>
+<a href="https://asciinema.org/a/340504" target="_blank"><img src="https://asciinema.org/a/340504.svg" /></a>
